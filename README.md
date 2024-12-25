@@ -21,9 +21,5 @@ This is a full-stack web application designed to manage employee records efficie
    - Dynamic interface for interacting with employee data.
    - Real-time updates using RESTful API calls.
 
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/employee-management-system.git
-   cd employee-management-system
+
 
